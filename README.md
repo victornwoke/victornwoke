@@ -60,14 +60,14 @@ victor_nwoke:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sirhumble07&theme=tokyonight-duo&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victornwoke&theme=tokyonight-duo&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirhumble07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirhumble07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victornwoke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF)](https://github.com/victornwoke/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victornwoke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&hide=html,css)](https://github.com/victornwoke/github-readme-stats)
 
 </div>
 
@@ -75,15 +75,15 @@ victor_nwoke:
 
 <div align="center">
 
-[![Readme Card](https://github.com/sirhumble07/azure_vnet_iac)]([https://github.com/kunlesanni/azure_vnet_iac](https://sirhumble07.github.io/Automating-Azure-Infrastructure/))
-[![Readme Card](https://github.com/sirhumble07/Automating-Azure-Infrastructure)](https://github.com/sirhumble07)
+[![Readme Card](https://github.com/victornwoke/azure_vnet_iac)]([https://github.com/victornwoke/azure_vnet_iac](https://sirhumble07.github.io/Automating-Azure-Infrastructure/))
+[![Readme Card](https://github.com/victornwoke/Automating-Azure-Infrastructure)](https://github.com/victornwoke)
 
 </div>
 
 ## 🤝 **Let's Connect & Collaborate**
 
 - 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/victornwoke)
-- 📧 **Email**: [victor_chinedu2003@yahoo.com](mailto:victor_chinedu2003@yahoo.com)
+- 📧 **Email**: [victor_chinedu2003@yahoo.com](mailto:victornwoke147@outlook.com)
 - 🐦 **Twitter**: [@sirhumble_](https://twitter.com/sirhumble_)
 - 💬 **Discord**: Always ready to chat about cloud architecture!
 
