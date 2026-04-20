@@ -100,7 +100,7 @@ victor_nwoke:
 
 <div align="center">
 
-### 💫 *"Infrastructure as Code isn't just about automation—it's about crafting digital dreams into reality, one deployment at a time."*
+### 💫 *"Infrastructure as Code isn't just about automation, it's about crafting digital dreams into reality, one deployment at a time."*
 
 **🎩 Happy to help turn your cloud challenges into magical solutions! ✨**
 
