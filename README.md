@@ -3,9 +3,9 @@
   <h3 style="margin-top: 4px;">but you can call me <strong>"Vic"</strong> or <strong>"Humble"</strong> - whichever loads faster!</h3>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=azure-vmss-load-balanced-scalable-webapp-terraform)](https://github.com/victornwoke/azure-vmss-load-balanced-scalable-webapp-terraform)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=Automating-Azure-Infrastructure)](https://github.com/victornwoke/Automating-Azure-Infrastructure)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Infrastructure+Engineer;Microsoft+Azure+%7C%7C+M365+Administrator;Windows+Server+%7C%7C+Technical+Support;Microsoft+Entra+ID;DevOps+Engineer+%26+Cloud+Automation;Turning+Coffee+into+Infrastructure+since+2020+" alt="Typing SVG" />
+</p>
 
 
 ---
@@ -75,14 +75,9 @@ victor_nwoke:
 
 <div align="center">
 
-<p align="left">
-  <a href="https://github.com/victornwoke/azure-vmss-load-balanced-scalable-webapp-terraform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=azure-vmss-load-balanced-scalable-webapp-terraform" />
-  </a>
-  <a href="https://github.com/victornwoke/Automating-Azure-Infrastructure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=Automating-Azure-Infrastructure" />
-  </a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=azure-vmss-load-balanced-scalable-webapp-terraform)](https://github.com/victornwoke/azure-vmss-load-balanced-scalable-webapp-terraform)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=Automating-Azure-Infrastructure)](https://github.com/victornwoke/Automating-Azure-Infrastructure)
 
 </div>
 
