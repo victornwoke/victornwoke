@@ -14,11 +14,11 @@
 
 ```yaml
 victor_nwoke:
-  role: "Cloud Architect Engineer"
+  role: "Cloud Architect Engineer."
   location: "Nottingham, UK 🌲"
-  current_focus: "Azure Infrastructure as Code Alchemy"
+  current_focus: "Azure Infrastructure as Code Alchemy."
   coffee_consumption: "3+ cups daily ☕"
-  deployment_style: "Smooth as butter, strong as espresso"
+  deployment_style: "Smooth as butter, strong as espresso."
   fun_fact: "I turn coffee into infrastructure code at a 1:1 ratio ☕"
 ```
 
@@ -83,7 +83,7 @@ victor_nwoke:
 ## 🤝 **Let's Connect & Collaborate**
 
 - 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/victornwoke)
-- 📧 **Email**: [victor_chinedu2003@yahoo.com](mailto:victornwoke147@outlook.com)
+- 📧 **Email**: [victornwoke147@outlook.com](mailto:victornwoke147@outlook.com)
 - 🐦 **Twitter**: [@sirhumble_](https://twitter.com/sirhumble_)
 - 💬 **Discord**: Always ready to chat about cloud architecture!
 
@@ -92,7 +92,7 @@ victor_nwoke:
 - 🤝 **Collaboration**: Building the next generation of cloud-native applications
 - 🧠 **Knowledge Exchange**: Sharing DevOps best practices and learning from the community
 - 🚀 **Innovation**: Working on projects that push the boundaries of what's possible in the cloud
-- 🤖  **AI Integration** : Breaking new boundaries by weaving AI/ML into cloud infrastructure - from intelligent auto-scaling to predictive DevOps workflows
+- 🤖  **AI Integration**: Breaking new boundaries by weaving AI/ML into cloud infrastructure - from intelligent auto-scaling to predictive DevOps workflows
 - ☕ **Coffee Chats**: Always up for discussing the latest in Azure, automation, or anything tech!
 
 ---
