@@ -75,9 +75,14 @@ victor_nwoke:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=azure-vmss-load-balanced-scalable-webapp-terraform)](https://github.com/victornwoke/azure-vmss-load-balanced-scalable-webapp-terraform)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=Automating-Azure-Infrastructure)](https://github.com/victornwoke/Automating-Azure-Infrastructure)
+<p align="left">
+  <a href="https://github.com/victornwoke/azure-vmss-load-balanced-scalable-webapp-terraform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=azure-vmss-load-balanced-scalable-webapp-terraform" />
+  </a>
+  <a href="https://github.com/victornwoke/Automating-Azure-Infrastructure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victornwoke&repo=Automating-Azure-Infrastructure" />
+  </a>
+</p>
 
 </div>
 
