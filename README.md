@@ -75,8 +75,8 @@ victor_nwoke:
 
 <div align="center">
 
-[![Readme Card]((https://github.com/victornwoke/azure-vmss-load-balanced-scalable-webapp-terraform))](https://github.com/victornwoke/azure-vmss-load-balanced-scalable-webapp-terraform)
-[![Readme Card](https://github.com/victornwoke/Automating-Azure-Infrastructure)]([https://github.com/victornwoke](https://github.com/victornwoke/Automating-Azure-Infrastructure))
+[![Readme Card]((https://github.com/victornwoke/azure-vmss-load-balanced-scalable-webapp-terraform))
+[![Readme Card](https://github.com/victornwoke/Automating-Azure-Infrastructure)]([https://github.com/victornwoke])
 
 </div>
 
