@@ -183,6 +183,9 @@ victor_nwoke:
 <a href="https://www.youtube.com/watch?v=UBy6vLyhEME"><img src="https://ytcards.demolab.com/?id=UBy6vLyhEME&title=Azure+Compute+Gallery+Explained+%7C+Build+%26+Deploy+Golden+VM+Images+%28Beginner+to+Pro%29&lang=en&timestamp=1767406143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=440" alt="Azure Compute Gallery Explained | Build & Deploy Golden VM Images (Beginner to Pro)" title="Azure Compute Gallery Explained | Build & Deploy Golden VM Images (Beginner to Pro)"></a>
 <a href="https://www.youtube.com/watch?v=JrsUBxzDuDk"><img src="https://ytcards.demolab.com/?id=JrsUBxzDuDk&title=Build+a+Secure+Azure+Environment+in+Minutes+with+Bicep+%7C+VMs%2C+Private+Endpoints+%26+Storage&lang=en&timestamp=1767404482&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=787" alt="Build a Secure Azure Environment in Minutes with Bicep | VMs, Private Endpoints & Storage" title="Build a Secure Azure Environment in Minutes with Bicep | VMs, Private Endpoints & Storage"></a>
 <a href="https://www.youtube.com/watch?v=fntI7qqm4QU"><img src="https://ytcards.demolab.com/?id=fntI7qqm4QU&title=Secure+Azure+Blob+Storage+with+PowerShell+%7C+VNet%2C+SAS+%26+Immutable+Policies&lang=en&timestamp=1767402798&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=738" alt="Secure Azure Blob Storage with PowerShell | VNet, SAS & Immutable Policies" title="Secure Azure Blob Storage with PowerShell | VNet, SAS & Immutable Policies"></a>
+
+
+
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
   
