@@ -16,7 +16,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: TheHumbleTech/github-readme-youtube-cards@main
+      - uses: victornwoke/github-readme-youtube-cards@main
         with:
           channel_id: UC2FF3DKtrSB4NDs01gv1p3w
           comment_tag_name: YOUTUBE-CARDS
