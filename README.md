@@ -177,35 +177,12 @@ victor_nwoke:
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=8GIZpMm9Xes">
-  <img src="https://ytcards.demolab.com/?id=8GIZpMm9Xes&title=Microsoft+Entra+Conditional+Access+Tutorial%3A+MFA%2C+Location+Controls+%26+What+If+Tool+%28Full+Lab%29&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Microsoft Entra Conditional Access Tutorial: MFA, Location Controls & What If Tool (Full Lab)">
-</a>
-
-<a href="https://www.youtube.com/watch?v=JGKCyANP6yo">
-  <img src="https://ytcards.demolab.com/?id=JGKCyANP6yo&title=Build+a+Production%E2%80%91Ready+Terraform+on+Azure+%7C+Auto%E2%80%91Scaling+VMSS%2C+Load+Balancer+%26+Modular+IaC&lang=en&timestamp=1693523015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=257" alt="Build a Production‑Ready Terraform on Azure | Auto‑Scaling VMSS, Load Balancer & Modular IaC">
-</a>
-
-
-<a href="https://www.youtube.com/watch?v=5a30X1ODcA4">
-  <img src="https://ytcards.demolab.com/?id=5a30X1ODcA4&title=Terraform+Azure+Tutorial%3A+Build+a+Full+Cloud+Environment+Step%E2%80%91by%E2%80%91Step+%28No+Shortcuts%2C+Real%E2%80%91World+IaC%29&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=312" alt="Terraform Azure Tutorial: Build a Full Cloud Environment Step‑by‑Step (No Shortcuts, Real‑World IaC)">
-</a>
-
-
-<a href="https://www.youtube.com/watch?v=UBy6vLyhEME">
-  <img src="https://ytcards.demolab.com/?id=UBy6vLyhEME&title=Azure+Compute+Gallery+Explained+%7C+Build+%26+Deploy+Golden+VM+Images+%28Beginner+to+Pro%29&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403" alt="Azure Compute Gallery Explained | Build & Deploy Golden VM Images (Beginner to Pro)">
-</a>
-
-
-
-<a href="https://www.youtube.com/watch?v=M2QPIrbXHaY">
-  <img src="https://ytcards.demolab.com/?id=M2QPIrbXHaY&title=Create+AD+Users+%26+Groups+with+PowerShell+%7C+Active+Directory+Automation+for+IT+Admins&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Create AD Users & Groups with PowerShell | Active Directory Automation for IT Admins">
-</a>
-
-
-<a href="https://www.youtube.com/watch?v=fntI7qqm4QU">
-  <img src="https://ytcards.demolab.com/?id=fntI7qqm4QU&title=Secure+Azure+Blob+Storage+with+PowerShell+%7C+VNet%2C+SAS+%26+Immutable+Policies&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=578" alt="Secure Azure Blob Storage with PowerShell | VNet, SAS & Immutable Policies">
-</a>
-
+<a href="https://www.youtube.com/watch?v=JGKCyANP6yo"><img src="https://ytcards.demolab.com/?id=JGKCyANP6yo&title=Build+a+Production%E2%80%91Ready+Terraform+on+Azure+%7C+Auto%E2%80%91Scaling+VMSS%2C+Load+Balancer+%26+Modular+IaC&lang=en&timestamp=1767926816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=806" alt="Build a Production‑Ready Terraform on Azure | Auto‑Scaling VMSS, Load Balancer & Modular IaC" title="Build a Production‑Ready Terraform on Azure | Auto‑Scaling VMSS, Load Balancer & Modular IaC"></a>
+<a href="https://www.youtube.com/watch?v=5a30X1ODcA4"><img src="https://ytcards.demolab.com/?id=5a30X1ODcA4&title=Terraform+Azure+Tutorial%3A+Build+a+Full+Cloud+Environment+Step%E2%80%91by%E2%80%91Step+%28No+Shortcuts%2C+Real%E2%80%91World+IaC%29&lang=en&timestamp=1767679010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=868" alt="Terraform Azure Tutorial: Build a Full Cloud Environment Step‑by‑Step (No Shortcuts, Real‑World IaC)" title="Terraform Azure Tutorial: Build a Full Cloud Environment Step‑by‑Step (No Shortcuts, Real‑World IaC)"></a>
+<a href="https://www.youtube.com/watch?v=8GIZpMm9Xes"><img src="https://ytcards.demolab.com/?id=8GIZpMm9Xes&title=Microsoft+Entra+Conditional+Access+Tutorial%3A+MFA%2C+Location+Controls+%26+What+If+Tool+%28Full+Lab%29&lang=en&timestamp=1767672106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=395" alt="Microsoft Entra Conditional Access Tutorial: MFA, Location Controls & What If Tool (Full Lab)" title="Microsoft Entra Conditional Access Tutorial: MFA, Location Controls & What If Tool (Full Lab)"></a>
+<a href="https://www.youtube.com/watch?v=UBy6vLyhEME"><img src="https://ytcards.demolab.com/?id=UBy6vLyhEME&title=Azure+Compute+Gallery+Explained+%7C+Build+%26+Deploy+Golden+VM+Images+%28Beginner+to+Pro%29&lang=en&timestamp=1767406143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=440" alt="Azure Compute Gallery Explained | Build & Deploy Golden VM Images (Beginner to Pro)" title="Azure Compute Gallery Explained | Build & Deploy Golden VM Images (Beginner to Pro)"></a>
+<a href="https://www.youtube.com/watch?v=JrsUBxzDuDk"><img src="https://ytcards.demolab.com/?id=JrsUBxzDuDk&title=Build+a+Secure+Azure+Environment+in+Minutes+with+Bicep+%7C+VMs%2C+Private+Endpoints+%26+Storage&lang=en&timestamp=1767404482&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=787" alt="Build a Secure Azure Environment in Minutes with Bicep | VMs, Private Endpoints & Storage" title="Build a Secure Azure Environment in Minutes with Bicep | VMs, Private Endpoints & Storage"></a>
+<a href="https://www.youtube.com/watch?v=fntI7qqm4QU"><img src="https://ytcards.demolab.com/?id=fntI7qqm4QU&title=Secure+Azure+Blob+Storage+with+PowerShell+%7C+VNet%2C+SAS+%26+Immutable+Policies&lang=en&timestamp=1767402798&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=738" alt="Secure Azure Blob Storage with PowerShell | VNet, SAS & Immutable Policies" title="Secure Azure Blob Storage with PowerShell | VNet, SAS & Immutable Policies"></a>
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
   
