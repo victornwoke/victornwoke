@@ -1,6 +1,5 @@
 <div align="center">
   <h1 style="margin-bottom: 0;">Hi there 👋, I'm Victor</h1>
-  <h3 style="margin-top: 4px;">but you can call me <strong>"Vic"</strong> or <strong>"Humble"</strong> - whichever loads faster!</h3>
 </div>
 
 <p align="center">
