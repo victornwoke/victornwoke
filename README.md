@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Infrastructure+Engineer;Microsoft+Azure+%7C%7C+Linux+Admin;Windows+Server+%7C%7C+DevOps+Engineer;Microsoft+Entra+ID;DevOps+Engineer+%26+Cloud+Automation;Turning+Coffee+into;Infrastructure+since+2020+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Infrastructure+Engineer;Microsoft+Azure+%7C%7C+Linux+Admin;Windows+Server+%7C%7C+DevOps+Engineer;Microsoft+Entra+ID;DevOps+Engineer+%26+Cloud+Automation;Turning+Coffee+into.........;Infrastructure+since+2020+" alt="Typing SVG" />
 </p>
 
 
