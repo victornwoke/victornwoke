@@ -23,10 +23,10 @@ victor_nwoke:
 
 ## 🔭 **Currently Brewing**
 
-- 🏗️ **Azure Castles**: Building scalable cloud architectures with Terraform, Python and GitHub Actions
+- 🏗️ **Azure Castles**: Building scalable cloud architectures with Terraform, Kubernetes, Argo CD, Python, and GitHub Actions
 - 🧙‍♂️ **Infrastructure Sorcery**: Mastering Container orchestration magic
 - 🤖 **Automation Potions**: Crafting CI/CD pipelines that practically run themselves
-- 📚 **Learning Quest**: Diving deep into Azure Well-Architected Framework
+- 📚 **Learning Quest**: Diving deep into Cloud Well-Architected Framework
 
 ## 🛠️ **My Magical Arsenal**
 
