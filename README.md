@@ -15,7 +15,6 @@
 victor_nwoke:
   role: "Cloud Architect Engineer."
   location: "Nottingham, UK 🌲"
- website: https://cloudtechbyvictor.com
   current_focus: "Azure Infrastructure as Code Alchemy."
   coffee_consumption: "3+ cups daily ☕"
   deployment_style: "Smooth as butter, strong as espresso."
@@ -197,8 +196,10 @@ victor_nwoke:
 
 - 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/victornwoke)
 - 📧 **Email**: [victornwoke147@outlook.com](mailto:victornwoke147@outlook.com)
-- 🐦 **Twitter**: [@sirhumble_](https://twitter.com/sirhumble_)
+- 🐦 **X**: [@sirhumble_](https://twitter.com/sirhumble_)
 - 💬 **Discord**: Always ready to chat about cloud architecture!
+- 🌐 **Website**: [Cloud Tech by Victor](https://cloudtechbyvictor.com)
+- 🗂️ **Portfolio**: [victornwoke.com](https://victornwoke.com)
 
 ## 🎯 **What I'm Looking For**
 
